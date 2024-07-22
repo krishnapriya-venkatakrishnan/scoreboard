@@ -1,0 +1,39 @@
+body {
+    margin: 0;
+}
+
+.container {
+    background: #001845;
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid black;
+    width: 400px;
+    margin: 30px auto;
+    padding: 3px 0px 20px 0px;
+}
+
+.team-scoreboard {
+    text-align: center;
+}
+
+.team-scoreboard h3 {
+    color: white;
+    margin-bottom: 10px;
+}
+
+.team-scoreboard h1 {
+    color: #c1121f;
+    border: 2px solid black;
+    background: black;
+    padding: 4px;
+    font-size: 60px;
+    margin: 0;
+}
+
+.team-scoreboard button {
+    background: #001845;
+    border: 1px solid white;
+    color: white;
+    padding: 6px;
+    margin-top: 10px;
+}
